@@ -16,7 +16,7 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: anmolugale13
-          outputs: dist/github-snake-dark.svg
+          outputs: output/github-snake-dark.svg
 
       - name: Push Snake
         uses: EndBug/add-and-commit@v9
@@ -24,4 +24,4 @@ jobs:
           author_name: github-actions
           author_email: github-actions@github.com
           message: "Generated snake animation"
-          add: "dist/github-snake-dark.svg"
+          add: "output/github-snake-dark.svg"
