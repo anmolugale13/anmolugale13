@@ -12,13 +12,11 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v2
 
-      - name: Generate Snake
+      - name: Generate Snake SVG
         uses: Platane/snk@master
         with:
           github_user_name: anmolugale13
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Push Snake
         uses: EndBug/add-and-commit@v9
@@ -26,4 +24,4 @@ jobs:
           author_name: github-actions
           author_email: github-actions@github.com
           message: "Generated snake animation"
-          add: "dist/"
+          add: "dist/github-contribution-grid-snake.svg"
