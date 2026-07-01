@@ -1,7 +1,7 @@
 name: Generate Snake
 
 on:
-  schedule:
+  schedule: # every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
@@ -15,18 +15,11 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate Snake SVGs
+      - name: Generate Snake SVG
         uses: Platane/snk@master
         with:
           github_user_name: anmolugale13
           svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - name: Generate Snake Dark
-        uses: Platane/snk@master
-        with:
-          github_user_name: anmolugale13
-          svg_out_path: dist/github-contribution-grid-snake-dark.svg
-          args: --palette=github-dark
 
       - name: Push Snake
         uses: EndBug/add-and-commit@v9
@@ -34,4 +27,4 @@ jobs:
           author_name: github-actions
           author_email: github-actions@github.com
           message: "Generated snake animation"
-          add: "dist/"
+          add: "dist/github-contribution-grid-snake.svg"
