@@ -67,6 +67,33 @@
 
 ---
 
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://my-trophy.vercel.app/api/trophy?username=anmolugale13&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📌 Pinned Projects
+<p align="center">
+  <a href="https://github.com/anmolugale13/anmolugale13">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anmolugale13&repo=anmolugale13&theme=radical" />
+  </a>
+  <a href="https://github.com/anmolugale13/my-readme-tau">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anmolugale13&repo=my-readme-tau&theme=radical" />
+  </a>
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anmolugale13&theme=radical&bg_color=000000&color=ffffff&line=ff0000&point=00ff00&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+
 ## 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anmolugale13/anmolugale13/main/dist/github-contribution-grid-snake-dark.svg" />
