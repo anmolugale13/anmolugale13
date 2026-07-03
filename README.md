@@ -65,26 +65,6 @@
 - ☕ Coffee fuels my debugging sessions  
 - 🎮 Gaming is my favorite way to relax  
 
----
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://my-trophy.vercel.app/api/trophy?username=anmolugale13&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📌 Pinned Projects
-<p align="center">
-  <a href="https://github.com/anmolugale13/anmolugale13">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anmolugale13&repo=anmolugale13&theme=radical" />
-  </a>
-  <a href="https://github.com/anmolugale13/my-readme-tau">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anmolugale13&repo=my-readme-tau&theme=radical" />
-  </a>
-</p>
 
 ---
 
