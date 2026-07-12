@@ -67,12 +67,13 @@ Worked on scalable backend systems and AI-driven product features.
 
 <p align="center">
   <!-- GitHub stats card (self-hosted) -->
-  <img src="https://my-readme-tau.vercel.app/api?username=anmolugale13&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=anmolugale13&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmolugale13&theme=tokyonight"  alt="Streak stats"/>
-  </p>
+  <!-- GitHub stats card (self-hosted) -->
+  <img src="https://my-readme-tau.vercel.app/api?username=anmolugale13&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
   
 <p align="center">
   <!-- Top languages card (self-hosted) -->
