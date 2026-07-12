@@ -105,8 +105,6 @@ Worked on scalable backend systems and AI-driven product features.
 </p>
 
 ## 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anmolugale13/anmolugale13/main/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anmolugale13/anmolugale13/main/dist/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/anmolugale13/anmolugale13/main/dist/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anmolugale13/anmolugale13/main/dist/github-contribution-grid-snake.svg"/>
+</p>
