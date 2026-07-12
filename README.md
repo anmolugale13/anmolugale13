@@ -1,3 +1,4 @@
+
 <!-- Animated Header Section -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F499A&height=200&section=header&text=Anmol%20Ugale&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
@@ -25,6 +26,12 @@
 ---
 
 ## About Me
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anmolugale13/anmolugale13/main/avi-ascii.svg" width="261"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/anmolugale13/anmolugale13/main/info-card.svg" width="460"/>
+</p>
+
 I am **Anmol Ugale**, a dedicated and enthusiastic 4th-year Computer Science and Engineering student at Sipna College of Engineering and Technology, Amravati. With a strong foundation in programming and a passion for solving real-world problems, I actively explore opportunities to learn, build, and collaborate.
 
 My technical expertise spans **Python, React.js, MySQL, HTML, CSS, Git/GitHub**, and I complement these with strong soft skills in leadership, teamwork, problem-solving, and communication. 
