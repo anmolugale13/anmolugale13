@@ -69,7 +69,7 @@ Worked on scalable backend systems and AI-driven product features.
 ## 📊 GitHub Stats
 <p align="center">
   <!-- Profile views counter -->
- <img src="https://komarev.com/ghpvc/?username=anmolugale13&style=flat-square&color=blue" alt="Profile views"/>
+ <img src="https://github-profile-counter.glitch.me/anmolugale13/count.svg" alt="Profile views"/>
 </p>
 
 <p align="center">
