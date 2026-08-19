@@ -51,6 +51,7 @@ Worked on scalable backend systems and AI-driven product features.
 
 **Skills:** Python, React.js, HTML, CSS, MySQL, MS Word, MS Excel  
 
+<br>
 
 **🖥️Frontend Developer Intern — Athenura**  
 *Aug 2026 – Present*  
