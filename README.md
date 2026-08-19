@@ -41,7 +41,7 @@ My technical expertise spans **Python, React.js, MySQL, HTML, CSS, Git/GitHub**,
 
 <img align="right" height="160" src="https://media3.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
 
-**Full Stack Developer Intern — Pugarch**  
+**🖥️Full Stack Developer Intern — Pugarch**  
 *July 2025 – Jan 2026*  
 Worked on scalable backend systems and AI-driven product features.
 
@@ -52,7 +52,7 @@ Worked on scalable backend systems and AI-driven product features.
 **Skills:** Python, React.js, HTML, CSS, MySQL, MS Word, MS Excel  
 
 
-**Frontend Developer Intern — Athenura**  
+**🖥️Frontend Developer Intern — Athenura**  
 *Aug 2026 – Present*  
 Building responsive and user-friendly web interfaces using HTML, CSS, and React.
 
