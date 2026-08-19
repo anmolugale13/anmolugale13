@@ -19,14 +19,15 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: anmolugale13
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Generate Snake SVG (Dark, larger grid)
+      - name: Generate Snake SVG (Dark)
         uses: Platane/snk@master
         with:
           github_user_name: anmolugale13
-          svg_out_path: dist/github-contribution-grid-snake-dark.svg
-          args: "--grid-size=20 --palette=github-dark"
+          outputs: dist/github-contribution-grid-snake-dark.svg
+          # Correct syntax for dark palette
+          args: --palette github-dark
 
       - name: Push Snake
         uses: EndBug/add-and-commit@v9
