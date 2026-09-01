@@ -117,11 +117,11 @@ Building responsive and user-friendly web interfaces using HTML, CSS, and React.
 </p>
 
 
-
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anmolugale13/anmolugale13/output/dist/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/anmolugale13/anmolugale13/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
+
 
 
 
