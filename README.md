@@ -105,14 +105,15 @@ Building responsive and user-friendly web interfaces using HTML, CSS, and React.
 - 🌙 I love solving coding challenges late at night  
 - 🤖 Big fan of AI/ML and experimenting with new models  
 - ☕ Coffee fuels my debugging sessions  
-- 🎮 Gaming is my favorite way to relax  
+- 🎮 Gaming is my favorite way to relax
+- 🌱 Currently exploring: LLMs & applied AI/ML 
 
 
 ---
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anmolugale13&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <img src="https://anmol-activity-graph.vercel.app/graph?username=anmolugale13&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </p>
 
 
