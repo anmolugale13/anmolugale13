@@ -112,8 +112,10 @@ Building responsive and user-friendly web interfaces using HTML, CSS, and React.
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anmolugale13&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anmolugale13&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </p>
+
+
 
 
 ## 🐍 Contribution Snake
