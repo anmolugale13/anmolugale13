@@ -108,7 +108,6 @@ Building responsive and user-friendly web interfaces using HTML, CSS, and React.
 - 🎮 Gaming is my favorite way to relax
 - 🌱 Currently exploring: LLMs & applied AI/ML 
 
-
 ---
 
 ## 📈 Activity Graph
