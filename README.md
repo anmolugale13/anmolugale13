@@ -77,6 +77,7 @@ Building responsive and user-friendly web interfaces using HTML, CSS, and React.
   <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftword.svg" width="40" height="40 width="40" height="40" style="margin: 5px;"/></a>
 </p>
 -->
+
 <p align="left">
   <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank">
