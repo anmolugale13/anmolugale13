@@ -4,6 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F499A&height=200&section=header&text=Anmol%20Ugale&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=04356A&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%2F+ML+Engineer;Full+Stack+Developer;Computer+science+and+engineering+graduate"/>
 </p>
