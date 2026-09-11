@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/github/stars/anmolugale13?style=flat-square&color=0e75b6"/>
 </p>
 
-
 ---
 
 ## About Me
