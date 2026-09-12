@@ -160,7 +160,6 @@ Building responsive and user-friendly web interfaces using HTML, CSS, and React.
 - ☕ Coffee fuels my debugging sessions  
 - 🎮 Gaming is my favorite way to relax
 - 🌱 Currently exploring: LLMs & applied AI/ML 
-
 ---
 
 ## 📈 Activity Graph
